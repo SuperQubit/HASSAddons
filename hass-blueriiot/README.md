@@ -3,9 +3,11 @@ Blueriiot Blue Connect Add-On for Home Assistant
 
 This add-on will periodically poll the Blueriiot API to retrieve sensor data from your Blue Connect unit.
 
-This add-on is in development/testing at present.
+This add-on is in development/testing at present. If multiple pool present select the first one.
 
-Home Assistant AddOn Repository: https://github.com/MikeJMcGuire/HASSAddons.
+Home Assistant AddOn Repository: https://github.com/SuperQubit/HASSAddons.git
+
+Original repo: https://github.com/MikeJMcGuire/HASSAddons.
 
 ## Configuration
 ### BlueriiotUser: string
