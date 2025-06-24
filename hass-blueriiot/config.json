@@ -3,10 +3,10 @@
   "version": "2023.11.0.1",
   "slug": "hass-blueriiot",
   "description": "An add-on for Blueriiot Blue Connect pool sensors.",
-  "url": "https://github.com/SuperQubit/HASSAddons/tree/master/hass-blueriiot",
+  "url": "https://github.com/SuperQubit/hass-blueriiot",
   "startup": "application",
   "boot": "auto",
-  "image": "mikejmcguire/hass-blueriiot-{arch}",
+  "image": "superqubit/hass-blueriiot-{arch}",
   "arch": [
     "amd64",
     "aarch64",
