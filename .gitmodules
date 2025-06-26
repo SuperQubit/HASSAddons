@@ -1,0 +1,3 @@
+[submodule "hass-blueriiot"]
+	path = hass-blueriiot
+	url = https://github.com/SuperQubit/hass-blueriiot.git
